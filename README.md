@@ -1,6 +1,6 @@
 # OpenCore build is live! Try it out and report back!
 
-- https://github.com/jsassu20/Lenovo-T450-Catalina-OpenCore
+
 
 #
 
